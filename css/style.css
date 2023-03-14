@@ -1,0 +1,52 @@
+.logo img{
+    width: 12em;
+}
+
+.row{
+    background-color: aliceblue;
+    border:3px solid #000
+}
+.loja h1{
+font-size: 3em;
+}
+nav{
+    border: 2px solid #000;
+    background-color: cadetblue;
+}
+nav span{
+    font-size: 1.5em;
+}
+
+.aside{
+  width: 14em; 
+  border: 1px solid #000;
+  margin-left: 0px; 
+  height: auto;
+}
+.aside span{
+    margin-bottom: 10px;
+}
+
+.aside span:hover{
+    width: 100%;
+    text-align: center;
+   border-bottom: 1px solid #000;
+   background-color: antiquewhite;
+}
+.main{
+    border: 1px solid #000;
+    margin-left:1px; 
+    width: 100%;
+    height: auto;
+}
+.main .card{
+    margin-top: 0.5em;
+margin-right: 2em;
+margin-bottom: 2em;
+height: 27em;
+}
+
+.card .card-img-top{
+    width: 18em;
+    height: 15em;
+}
